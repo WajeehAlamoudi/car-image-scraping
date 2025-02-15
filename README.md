@@ -110,6 +110,7 @@ The folder name uses the format:
 - **Image Count:** The script saves **up to 3 images per car listing**.
 - **Year Mapping:** Adjust the `year_mappings` dictionary if needed.
 - **Folder Naming:** Modify `folder_mappings` to rename models differently.
+- **STORAGE 20 for period between 2015-2024**
 
 ### Troubleshooting:
 
@@ -126,10 +127,5 @@ The folder name uses the format:
 This script is intended for educational purposes only.  
 Ensure you comply with `cars.com` terms of service when using this tool.
 
----
 
-## 🏛️ License
-
-MIT License © 2025  
-Author: [Your Name]
 
