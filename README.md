@@ -11,7 +11,7 @@ This project is a Python-based web scraper designed to download images of Toyota
 4. [Usage](#usage)
 5. [Folder Structure](#folder-structure)
 6. [Notes & Tips](#notes--tips)
-7. [License](#license)
+
 
 ---
 
