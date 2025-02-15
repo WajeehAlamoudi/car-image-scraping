@@ -110,7 +110,7 @@ The folder name uses the format:
 - **Image Count:** The script saves **up to 3 images per car listing**.
 - **Year Mapping:** Adjust the `year_mappings` dictionary if needed.
 - **Folder Naming:** Modify `folder_mappings` to rename models differently.
-- **STORAGE 20 for period between 2015-2024**
+- **STORAGE apx 20 free GB is needed for period between 2015-2024**
 
 ### Troubleshooting:
 
